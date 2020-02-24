@@ -101,7 +101,7 @@ th {
 }
 
 img {
-	width:50%;
+	max-width:100%;
 	border:1px solid black;
 }
 
